@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
-<h3 align="center">Someone who is interested about making video games. Looking forward to run a sustainable game studio in the future!</h3>
+<h3 align="center">Someone who is interested about making video games. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umutkeltek&label=Profile%20views&color=0e75b6&style=flat" alt="umutkeltek" /> </p>
 
