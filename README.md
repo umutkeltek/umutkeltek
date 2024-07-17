@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
-<h3 align="center">Someone who is interested about making video games. </h3>
+<h3 align="center"> AI Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umutkeltek&label=Profile%20views&color=0e75b6&style=flat" alt="umutkeltek" /> </p>
 
-- 🔭 I’m currently working on **a hypercasual prototype**
-
-- 💬 Ask me anything about **Game Design**
+- 🔭 I’m currently exploring the intersection of AI and real-world applications. My work revolves around leveraging AI and data science to solve complex problems and optimize systems. 
+  
+- 💬 Feel free to reach out if you have questions about **AI, Data Science, Game Design** or any other topics of mutual interest.
 
 - 📫 How to reach me **umut.keltek@gmail.com**
 
-- ⚡ Fun fact **I dont like to create readme files :P**
+- ⚡ Fun fact: **I enjoy engaging in deep, intellectually stimulating conversations.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
