@@ -23,16 +23,6 @@ more interested in **how things behave under constraints**.
 
 ---
 
-### Current focus
-
-- LLM-based simulation and evaluation systems  
-- AI microservices used inside real products  
-- Analytics and signal extraction from messy user behavior  
-- Product decisions under uncertainty  
-
-I care about leverage, not polish.
-
----
 
 ### Contact
 
@@ -41,12 +31,6 @@ I care about leverage, not polish.
 - LinkedIn: https://linkedin.com/in/umutkeltek  
 - Kaggle: https://kaggle.com/umutkeltek  
 
----
-
-### Tech (loosely)
-
-Python, Node.js, PostgreSQL, LLM APIs, evaluation pipelines,  
-plus whatever else the problem forces me to learn.
 
 ---
 
