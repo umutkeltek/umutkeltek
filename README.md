@@ -29,7 +29,8 @@ more interested in **how things behave under constraints**.
 - Email: **umut.keltek@gmail.com**
 - Twitter: https://twitter.com/umutkeltek  
 - LinkedIn: https://linkedin.com/in/umutkeltek  
-- Kaggle: https://kaggle.com/umutkeltek  
+- Kaggle: https://kaggle.com/umutkeltek
+- Website: https://keltek.ai/
 
 
 ---
