@@ -1,26 +1,43 @@
-# Umut Keltek
-
-I build privacy-first consumer products and the AI systems that make them useful.
-
+<h1 align="center">Umut Keltek</h1>
 <p align="center">
-  <a href="https://github.com/umutkeltek/healthsave-observatory">
-    <img src="https://raw.githubusercontent.com/umutkeltek/healthsave-observatory/main/docs/assets/github/social-preview.png" alt="HealthSave Observatory — your health data never touches our servers" width="640">
-  </a>
+AI systems • simulations • applied reasoning
 </p>
 
 <p align="center">
-  <a href="https://github.com/umutkeltek/healthsave-observatory"><strong>HealthSave Observatory</strong></a> — a self-hosted observatory for Apple Health and wearable data.<br>
-  TimescaleDB record, evidence-linked findings, local AI narration, default-deny egress.<br>
-  Companion iOS app on the <a href="https://apps.apple.com/app/id6759843047">App Store</a>.
+  <img src="https://komarev.com/ghpvc/?username=umutkeltek&label=views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### Also
+### About
 
-- [**switchback**](https://github.com/umutkeltek/switchback) — one Rust binary for explainable AI provider routing: multi-provider fallback, budgets, quotas, metadata-only traces.
-- [**keltek.ai**](https://keltek.ai) — portfolio and writing.
+I work on systems where **models, data, and people interact**.
+
+Most of my time goes into:
+- building AI-driven simulations
+- designing evaluation and feedback loops
+- turning vague problems into executable systems
+
+I’m less interested in tools as identities,  
+more interested in **how things behave under constraints**.
+
+---
+
 
 ### Contact
 
-umut.keltek@gmail.com · [Twitter](https://twitter.com/umutkeltek) · [LinkedIn](https://linkedin.com/in/umutkeltek) · [Kaggle](https://kaggle.com/umutkeltek)
+- Email: **umut.keltek@gmail.com**
+- Twitter: https://twitter.com/umutkeltek  
+- LinkedIn: https://linkedin.com/in/umutkeltek  
+- Kaggle: https://kaggle.com/umutkeltek
+- Website: https://keltek.ai/
+
+
+---
+
+### GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=umutkeltek&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutkeltek&layout=compact&theme=transparent&hide_border=true" />
+</p>
